@@ -4,7 +4,7 @@ Soy Ing de soporte de software L4
 Plataformas: VS Code, Arduino IDE, Web, AWS, Postman, N8N, Github.
 
 git add LeidyMeneses.txt
-git commit -m "mensaje descriptivo"
+git commit -m "Ejercicio c:"
 
 
 
